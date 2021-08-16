@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Built for non-dev Developers
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Learn cloud computing, while building full-stack linux based apps.'
     actions:
       - label: Learn More
         url: /features
