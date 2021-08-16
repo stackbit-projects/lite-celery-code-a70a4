@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Built for non-Dev Developers
+    title: Built for non-dev Developers
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
