@@ -5,7 +5,8 @@ sections:
     title: Built for non-dev Developers
     subtitle: >-
       Learning the cloud, while building full-stack web based apps. Gain
-      advanced git skills while creating s
+      advanced git skills while creating ssg sites... generate websites in
+      seconds ...
     actions:
       - label: Learn More
         url: /features
