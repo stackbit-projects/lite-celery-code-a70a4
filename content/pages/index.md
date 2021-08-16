@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Built for non-dev Developers
-    subtitle: 'Learn cloud computing, while building full-stack linux based apps.'
+    subtitle: >-
+      Learning the cloud, while building full-stack web based apps. Gain
+      advanced git skills while creating s
     actions:
       - label: Learn More
         url: /features
